@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # Created by https://www.gitignore.io/api/java
 
+=======
+>>>>>>> master
 ### Java ###
 # Compiled class file
 *.class
@@ -25,9 +28,13 @@
 hs_err_pid*
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # End of https://www.gitignore.io/api/java
 =======
 *.class
 =======
 
 >>>>>>> 28a2e1297a512d17dc5f476e6317b4853ac3edc8
+=======
+# End of https://www.gitignore.io/api/java
+>>>>>>> master

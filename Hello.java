@@ -4,6 +4,7 @@ class Hello {
         System.out.println("Hello! We are:");
 
         this.Krerk();
+<<<<<<< HEAD
 		this.Beaphin();
         this.Sasimaporn();
 
@@ -12,11 +13,15 @@ class Hello {
 		this.Mild();
         		this.BEST();
 
+=======
+		this.Juthamas();
+>>>>>>> master
     }
     
     private void Krerk() {
         System.out.println("Trainer - Krerk Piromsopa, Ph.D.");
     }
+<<<<<<< HEAD
 
     private void Mild() {
         System.out.println("Trainee - Yuphaphorn Wiwekwaew");
@@ -36,10 +41,20 @@ class Hello {
         System.out.println("Trainee - Nuttadet Orasa");
     }
 
+=======
+	
+	private void Juthamas() {
+        System.out.println("Juthamas Kroswas");
+        System.out.println("Juthamas Kroswas");
+    }
+    
+>>>>>>> master
     public static void main(String [] argv) {
         new Hello();
+		
     }
 	
+<<<<<<< HEAD
 	private void nuttapongR() {
 		System.out.println("Trainee - Mr.Nuttapong Ruengratsamesan");
 	}
@@ -60,5 +75,8 @@ class Hello {
     }
 }
 
+=======
+	
+>>>>>>> master
 }
 
